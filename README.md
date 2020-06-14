@@ -26,6 +26,10 @@ docker-compose up
 
 - The root path of the API in the development server will be: `http://127.0.0.1:8000/api/`
 
+## 📜 Documentation
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/620d20de220526d5f289)
+
 ## ⚙️ Tech Stack
 
 - Python

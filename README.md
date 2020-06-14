@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Recipe App API</h1>
-  <blockquote>This Recipe App is an API to manage your own recipes with its ingredients and tags. Tha API also handle users management, so you can add multiple users to your system.</blockquote>
+  <h1>Recipe App</h1>
+  <blockquote>API to manage your own recipes with its ingredients and tags. The API also handles user management, so you can add multiple users to your system.</blockquote>
 </div>
 
 ## ⭐️ Features
@@ -10,6 +10,7 @@
 - Recipes, ingredients and tags endpoints
 - Filter recipes by ingredients or tags
 - Continuous Integration with Travis CI
+- PostgreSQL as DB engine
 
 ## 📦 Installation
 

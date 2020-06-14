@@ -9,12 +9,13 @@
 - Token authentication
 - Recipes, ingredients and tags endpoints
 - Filter recipes by ingredients or tags
+- Continuous Integration with Travis CI
 
 ## 📦 Installation
 
 You need to have installed docker and docker-compose
 
-## ⚙️ Usage
+## 🚀 Usage
 
 Execute the following command to create the docker image and run it in a docker container locally
 
@@ -23,6 +24,15 @@ docker-compose up
 ```
 
 - The root path of the API in the development server will be: `http://127.0.0.1:8000/api/`
+
+## ⚙️ Tech Stack
+
+- Python
+- Django
+- Django REST Framework
+- Docker
+- Travis CI
+- PostgreSQL
 
 ## 📝 License
 

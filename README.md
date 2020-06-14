@@ -28,7 +28,7 @@ docker-compose up
 
 ## 📜 Documentation
 
-<details><summary>Postman Collection</summary>
+<details><summary>Postman Collection to import</summary>
 
 ```
 {

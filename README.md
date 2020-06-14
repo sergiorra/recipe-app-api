@@ -1,7 +1,14 @@
 <div align="center">
   <h1>Recipe App API</h1>
-  <blockquote>This Recipe App is an API to </blockquote>
+  <blockquote>This Recipe App is an API to manage your own recipes with its ingredients and tags. Tha API also handle users management, so you can add multiple users to your system.</blockquote>
 </div>
+
+## ⭐️ Features
+
+- Users management
+- Token authentication
+- Recipes, ingredients and tags endpoints
+- Filter recipes by ingredients or tags
 
 ## 📦 Installation
 
